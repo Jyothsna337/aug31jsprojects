@@ -66,6 +66,6 @@ ul li a {
 
 .list-items:hover:after {
   opacity: 1;
-  top: -8px;
+  top: -8px; 
   right: -8px;
 }
